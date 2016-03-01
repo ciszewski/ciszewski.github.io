@@ -9,7 +9,9 @@ body {
 }
 
 #splashscreen {
-  background-image: url("http://www.logodesignlove.com/images/classic/nba-logo.jpg");
+  background-image: url("http://www.logodesignlove.com/wp-content/uploads/2011/04/nba-logo-on-wood.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .gameTitle {
